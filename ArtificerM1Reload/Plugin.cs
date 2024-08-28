@@ -20,7 +20,7 @@ namespace R2API.Utils
 
 namespace ArtificerM1Reload
 {
-    [BepInPlugin("com.Moffein.ArtificerM1Reload", "ArtificerM1Reload", "1.1.0")]
+    [BepInPlugin("com.Moffein.ArtificerM1Reload", "ArtificerM1Reload", "1.1.1")]
     public class ArtificerM1Reload : BaseUnityPlugin
     {
 
